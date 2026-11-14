@@ -5,10 +5,10 @@
       "name": "Cloud Hopper",
       "version": "3.0",
       "description": "Платформер про Марка и босса Марка-404. Две главы, 24+ уровней, диалоги, скины и секретные концовки.",
-      "url": "https://github.com/ТВОЙ_НИК/vorkneitik-games/releases/download/cloudhopper-3.0/CloudHopper-3.0.zip",
-      "sha256": "ВСТАВЬ_ХЭШ_ИЗ_pack_game.py",
-      "size": 0,
-      "exe": "CloudHopper.exe",
+      "url": "https://github.com/zuravlevartem942-a11y/vorkneitik-games/releases/download/cloudhopper-3.0/cloudhopper-3.0.zip",
+      "sha256": "5cbb9e2f8ff2ab6dd53e968030b1e08a44fc0aab74224dbc3237b660b2500314",
+      "size": 13443989,
+      "exe": "Cloudhopper 3.0.exe",
       "achievements": []
     }
   ]
