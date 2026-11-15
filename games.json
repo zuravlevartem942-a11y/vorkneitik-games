@@ -9,7 +9,40 @@
       "sha256": "5cbb9e2f8ff2ab6dd53e968030b1e08a44fc0aab74224dbc3237b660b2500314",
       "size": 13443989,
       "exe": "Cloudhopper 3.0.exe",
-      "achievements": []
+      "achievements": [
+        {
+          "id": "first_steps",
+          "name": "Первые шаги",
+          "description": "Начни своё путешествие."
+        },
+        {
+          "id": "normal_levels",
+          "name": "Обычные уровни",
+          "description": "Пройди все обычные уровни."
+        },
+        {
+          "id": "meet_mark404",
+          "name": "Встреча с Марком 404",
+          "hidden": true,
+          "hidden_name": "Встреча с ???",
+          "description": "Встреться с Марком 404."
+        },
+        {
+          "id": "chapter2",
+          "name": "Где мы?",
+          "description": "Попади во вторую главу."
+        },
+        {
+          "id": "developer",
+          "name": "Разработчик",
+          "description": "Вступи в битву с разработчиком."
+        },
+        {
+          "id": "joke",
+          "name": "Ты же пошутил?",
+          "description": "Позволь стереть Марка 404."
+        }
+      ]
     }
   ]
 }
