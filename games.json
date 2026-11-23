@@ -44,9 +44,9 @@
           "name": "Ты же пошутил?",
           "description": "Позволь стереть Марка 404."
            {
-          "id": "first_steps",
-          "name": "Первые шаги",
-          "description": "Начни своё путешествие."
+          "id": "the_end",
+          "name": "The end?",
+          "description": "Конец?"
         },
         
         }
