@@ -4,46 +4,95 @@
       "id": "cloudhopper",
       "name": "Cloud Hopper",
       "version": "3.1",
-      "description": "Платформер про Марка и босса Марка-404. Две главы, 24+ уровней, диалоги, скины и секретные концовки.",
-      "url": "https://github.com/zuravlevartem942-a11y/vorkneitik-games/releases/download/cloudhopper-3.1!/cloudhopper-3.1.zip",
+      "description": "Платформер про Марка и босса Марка-404. Две главы, диалоги, скины и секретные концовки.",
+      "url": "https://github.com/zuravlevartem942-a11y/vorkneitik-games/releases/download/cloudhopper-3.1/cloudhopper-3.1.zip",
       "sha256": "d9eadcba42ef8f30286d8b80a33fa2c74221905ec34b4ed4704332b0ec79e388",
       "size": 13447364,
       "exe": "CloudHopper.exe",
-      "cover": "",
-      "banner": "",
       "achievements": [
         {
           "id": "first_steps",
           "name": "Первые шаги",
-          "description": "Начни своё путешествие."
+          "description": "Пройди свой первый уровень.",
+          "hidden": false
         },
         {
           "id": "normal_levels",
-          "name": "Обычные уровни",
-          "description": "Пройди все обычные уровни."
-        },
-        {
-          "id": "meet_mark404",
-          "name": "Встреча с Марком 404",
-          "hidden": true,
-          "hidden_name": "Встреча с ???",
-          "description": "Встреться с Марком 404."
-        },
-        {
-          "id": "chapter2",
-          "name": "Где мы?",
-          "description": "Попади во вторую главу."
+          "name": "Прыгун",
+          "description": "Пройди все обычные уровни.",
+          "hidden": false
         },
         {
           "id": "developer",
-          "name": "Разработчик",
-          "description": "Вступи в битву с разработчиком."
+          "name": "Босс найден",
+          "description": "Начни бой с Разработчиком.",
+          "hidden": false
+        },
+        {
+          "id": "end_script",
+          "name": "Концовка: Сценарий",
+          "description": "Получи концовку «Сценарий».",
+          "hidden": false
+        },
+        {
+          "id": "end_winner",
+          "name": "Концовка: Победитель",
+          "description": "Получи концовку «Победитель».",
+          "hidden": false
+        },
+        {
+          "id": "end_notscript",
+          "name": "Концовка: Не по сценарию",
+          "description": "Получи концовку «Не по сценарию».",
+          "hidden": false
+        },
+        {
+          "id": "end_beyond",
+          "name": "Концовка: За пределами игры",
+          "description": "Получи концовку «За пределами игры».",
+          "hidden": false
+        },
+        {
+          "id": "chapter2",
+          "name": "Глава 2",
+          "description": "Начни вторую главу.",
+          "hidden": false
+        },
+        {
+          "id": "meet_mark404",
+          "name": "Знакомство",
+          "description": "Встреть Марка-404.",
+          "hidden": false
+        },
+        {
+          "id": "end_ok200",
+          "name": "Концовка: 200 OK",
+          "description": "Получи концовку «200 OK».",
+          "hidden": false
+        },
+        {
+          "id": "end_redirect",
+          "name": "Концовка: 301 Redirect",
+          "description": "Получи концовку «301 Redirect».",
+          "hidden": false
+        },
+        {
+          "id": "end_err500",
+          "name": "Концовка: 500 Internal Error",
+          "description": "Секретная концовка.",
+          "hidden": true
         },
         {
           "id": "joke",
-          "name": "Ты же пошутил?",
-          "description": "Позволь стереть Марка 404."
-          
+          "name": "Шутка",
+          "description": "Секретное достижение.",
+          "hidden": true
+        },
+        {
+          "id": "the_end",
+          "name": "The end?",
+          "description": "",
+          "hidden": true
         }
       ]
     }
